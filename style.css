@@ -9,3 +9,17 @@ cuarto color: #141414;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: #d87093;
 }
+body{
+    background-image: url(../IMG/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 1 em;
+}
+.formato-li{
+    border: 3px solid black;
+    padding: 38px;
+}
+.ancho{
+    padding: 2%;
+    width: 50%;
+}
